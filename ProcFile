@@ -1,1 +1,0 @@
-web: gunicorn us_state_game:app --log-file -
